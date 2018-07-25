@@ -8,7 +8,7 @@ olympic_hash = {}
 end 
  create_olympics_hash
 
-olympic_hash << olympic_hash["Atlanta"] = 1996
+olympic_hash["Atlanta"] = 1996
 
 def add_a_key_value_pair
   # Implement this method so that it adds a key value pair to the hash created in create_olympics_hash
