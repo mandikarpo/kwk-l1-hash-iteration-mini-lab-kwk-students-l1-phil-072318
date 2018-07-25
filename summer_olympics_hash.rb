@@ -1,7 +1,14 @@
+def create_olympics_hash 
+olympic_hash = {}
+  olympic_hash["Sydney"] = 2000
+  olympic_hash["Athens"] = 2004 
+  olympic_hash["Beijing"] = 2008 
+  olympic_hash["London"] = 2012 
+  puts olympic_hash
+end 
+ create_olympics_hash
 
-def create_olympics_hash
-  # Implement this method so that it returns a hash with the data provided on README.md
-end
+oolympic_hash["Atlanta"] = 1996
 
 def add_a_key_value_pair
   # Implement this method so that it adds a key value pair to the hash created in create_olympics_hash
